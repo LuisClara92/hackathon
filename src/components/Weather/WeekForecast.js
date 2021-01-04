@@ -9,7 +9,7 @@ const WeekForecast = (props) => {
   return(
     <div className="day-card">
       <h6>{days[props.index]}</h6>
-      <div classNmae="temp">
+      <div className="temp">
       <b className="solid-text">&#x2600; {props.temp.day}&deg;</b><br />
       <span className="solid-text">  &#x263E; {props.temp.eve}&deg;</span>
       </div>
