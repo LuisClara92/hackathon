@@ -3,7 +3,7 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 import ArrowBack from "@material-ui/icons/ArrowBack";
 import "./styles.css";
-// import {Container, Row, Col, Card} from "react-bootstrap"
+import {Container, Row, Col, Card} from "react-bootstrap"
 
 const VegeDetails = (props) => {
   // const [goods, setGoods] = useState([]);
