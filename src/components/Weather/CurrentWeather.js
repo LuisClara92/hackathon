@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-no-duplicate-props */
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import axios from 'axios';
 import bluesky from './videos/blue-sky-timelaps.mov';
